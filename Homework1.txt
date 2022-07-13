@@ -1,0 +1,14 @@
+Variables:
+Una variable es un espacio de almacenamiento donde guardamos un dato para utilizarlo cuando sea necesario
+
+Strings:
+Es un tipo de dato primitivo de JS, este tipo de dato almacena cadenas de texto, y se puede escribir entre comillas simples o dobles
+
+Funciones:
+Las funciones son objetos, a los cuales podemos llamar para ejecutar el código que la misma contiene, también se le pueden enviar argumentos para que puedan ser utilizados por ella.
+Los argumentos se envian dentro de los parentesis de la funcion, separados por una coma en caso de ser más de uno.
+En cuanto al return, el mismo se encarga de devolver los datos de la función, ya que de otra manera no podríamos acceder a ellos.
+
+If, es un flujo de control, por medio de ellos podemos controlar si una porción de código se va a ejecutar o no, en caso de que la condicion dentro del if se evalue por verdadera,las instrucciones contenidas dentro del mismo se van a ejecutar, caso contrario continua la ejecucion sin ejecutar el código que se encontraba dentro del if.
+
+Los valores Booleanos son los valores lógicos, tenemos dos valores posibles, true or false
