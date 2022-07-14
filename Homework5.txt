@@ -1,0 +1,5 @@
+prototype:
+prototype es una propiedad que tienen las clases, sirven para crear un metodo una sola vez y cuando nosotros instanciamos objetos de esa clase, estos objetos tienen acceso a dichos métodos, si en lugar de utilizar el prototype creamos funciones en la clase, cada objeto que se instancia de la clase tendrá presente todas las funciones que contiene la clase, lo que puede producir problemas con la memoria en caso de tener miles de objetos, gracias a prototype nos evitamos este problema 
+
+Constructores:
+imaginemos que tenemos muchas personas, podriamos crear muchos objetos, uno para cada uno de ellos, repitiendo en cada declaracion del objeto las mismas propiedades una y otra vez, en casos asi, lo mas conveniente es crear una clase Persona, que es un molde o plantilla, que contiene todas las propiedades que tienen en común las personas, estas clases tienen un contructor, por el medio del cual podremos instanciar cada uno de los objetos de tipo Persona que vayamos creando. 
